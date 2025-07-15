@@ -16,4 +16,4 @@ git clone https://github.com/YOUR_USERNAME/yampay-app.git
 cd yampay-app
 npm install
 npm run dev
-Update README with project details
+
